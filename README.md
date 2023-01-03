@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm rangersui</h1>
 <h3 align="center"></h3>
 
-- 🔭 I’m currently working on **my graduation thesis**
+- 🔭 I’m currently working on **my graduation thesis and intern**
 
 - 🌱 I’m currently learning **Nodejs, Vue3 and so on**
 
