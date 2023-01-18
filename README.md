@@ -3,11 +3,14 @@
 
 - 🔭 I’m currently working on **my graduation thesis and intern**
 
+- 🏭 Probably will work in manufacturing industry
+
 - 🌱 I’m currently learning **Nodejs, Vue3 and so on**
+- 🌼 Also re-learning the **basics of STM32**
 
 - 🤝 I’m looking for help with **everything about WebRTC**
 
-- 💬 Ask me about **C/Cpp,python**
+- 💬 Ask me about **C/Cpp,python and embedded stuff**
 
 - 📫 How to reach me **chenhanlin1108@outlook.com**
 
