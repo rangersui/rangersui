@@ -1,8 +1,4 @@
 <h1 align="center">Hi 👋, I'm rangersui</h1>
-I now work as a software engineer for an automotive supplier, developing AVM.
-
-I'm enhancing my:
-- C++ skills;
-- CV knowledge;
-- industrial experiences...
-- .etc.
+I am pursuing my Master Degree (Electrical Engineering) @ USYD.
+Skilled in C/C++, STM32, RTOS, and Linux display stacks.
+Currently taking internship with a carbon capture company!
