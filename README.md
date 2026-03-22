@@ -10,3 +10,4 @@ Building **elastik**: a protocol for human-AI interaction. Five rules. ~200 line
 
 - 🔧 [elastik](https://github.com/rangersui/Elastik) — the protocol
 - 🌐 [elastik-extension](https://github.com/rangersui/elastik-extension) — Lucy in every browser tab
+- 🖥️ [elastik-vscode](https://github.com/rangersui/elastik-vscode) — Lucy in every editor tab
