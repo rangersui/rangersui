@@ -2,7 +2,7 @@
 
 Pursuing Master of Professional Engineering (Electrical) @ University of Sydney.
 Skilled in C/C++, Rust, STM32, RTOS, Linux display stacks, PLC integration, and solar system design.
-Currently working with a cleantech startup on solar-powered wastewater treatment.
+Currently working with a cleantech startup on wastewater treatment.
 
 Building **elastik**: an HTTP byte engine. Six verbs, one disk.
 curl is all you need.
